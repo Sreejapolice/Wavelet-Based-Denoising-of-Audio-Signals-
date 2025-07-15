@@ -1,2 +1,7 @@
 # Wavelet-Based-Denoising-of-Audio-Signals-
 Denoised audio signals using Discrete Wavelet Transform (DWT) in MATLAB. Implemented decomposition, thresholding, and reconstruction to reduce realistic noise. Compared performance with Fourier Transform using Signal-to-Noise Ratio (SNR) across various wavelet types and levels.
+
+
+Audio signals are more frequently polluted with various types of realistic noises. So, periods ago in order to reduce the noise level, some filtering approach will be used. Presently there are many transform based techniques used to estimate the noisy audio signal. One of the transform techniques known as wavelet transform will be used for denoising an audio signal from realistic noise. Predominantly, the objective of this proposed research is to characterize discrete wavelet transform (DWT) towards denoising a one- dimensional audio signal from common realistic noise. Moreover, the idea is to implement the denoising decomposition, thresholding and reconstruction in the MATLAB simulation software, and elaborate a comparative analysis based on choice of wavelet transform over Fourier transform. Likewise, for the different level of decomposition, signal to noise Ratio (SNR) will be estimated, to sum up, in this research, different circumstances has been measured to elect best wavelet. function and its level, based on its response of signal to noise ratio (SNR) in denoising audio signal.
+
+Keywords: Audio Signals, Discrete Wavelet Transform, Signal to Noise Ratio, Decomposition and Thresholding.
